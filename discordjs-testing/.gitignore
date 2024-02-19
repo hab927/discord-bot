@@ -1,0 +1,8 @@
+# has sensitive bot info
+config.json
+
+# all the bot things in here!
+node_modules
+
+# env files are sensitive too
+.env
